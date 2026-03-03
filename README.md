@@ -70,7 +70,7 @@
 
 ## 🚀 My Projects
 
-### 📌 Pinned Projects
+### 📌 Featured Projects
 
 <div align="center">
 
@@ -88,9 +88,9 @@
 
 </div>
 
-### 📂 All Repositories
+### 📂 All Public Repositories (10)
 
-<div align="center">
+#### 🚀 Projects
 
 | Repository | Description | Language | Stars |
 |------------|-------------|----------|-------|
@@ -98,8 +98,22 @@
 | [**festival-greetings**](https://github.com/ChanYeeSum/festival-greetings) | Beautiful holiday greeting cards web application | JavaScript | |
 | [**ChanYeeSum.github.io**](https://github.com/ChanYeeSum/ChanYeeSum.github.io) | Personal portfolio website on GitHub Pages | HTML | |
 | [**Data**](https://github.com/ChanYeeSum/Data) | Learning materials and course projects from CWNU | - | |
+| [**DisplayContestShow_Java**](https://github.com/ChanYeeSum/DisplayContestShow_Java) | Java display contest project | Java | |
 
-</div>
+#### 📚 Learning
+
+| Repository | Description | Language |
+|------------|-------------|----------|
+| [**pythonlearn**](https://github.com/ChanYeeSum/pythonlearn) | Python learning notes and practice exercises | Jupyter |
+| [**JavaLearn**](https://github.com/ChanYeeSum/JavaLearn) | Java programming language learning repository | Java |
+| [**jsLearn**](https://github.com/ChanYeeSum/jsLearn) | JavaScript fundamentals and advanced concepts | JavaScript |
+| [**web**](https://github.com/ChanYeeSum/web) | Web development projects and experiments | HTML |
+
+#### 📖 Courses
+
+| Repository | Description |
+|------------|-------------|
+| [**SoftwareTesting**](https://github.com/ChanYeeSum/SoftwareTesting) | Software testing methodologies and practices |
 
 ### 🔗 Quick Links
 

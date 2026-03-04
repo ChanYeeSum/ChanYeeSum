@@ -88,7 +88,7 @@
 
 </div>
 
-### 📂 All Public Repositories (10)
+### 📂 All Public Repositories (11)
 
 #### 🚀 Projects
 
@@ -97,23 +97,23 @@
 | [**CodeCal**](https://github.com/ChanYeeSum/CodeCal) | ACM Online Judge API for competitive programming | Python | ⭐ |
 | [**festival-greetings**](https://github.com/ChanYeeSum/festival-greetings) | Beautiful holiday greeting cards web application | JavaScript | |
 | [**ChanYeeSum.github.io**](https://github.com/ChanYeeSum/ChanYeeSum.github.io) | Personal portfolio website on GitHub Pages | HTML | |
-| [**Data**](https://github.com/ChanYeeSum/Data) | Learning materials and course projects from CWNU | - | |
 | [**DisplayContestShow_Java**](https://github.com/ChanYeeSum/DisplayContestShow_Java) | Java display contest project | Java | |
+| [**esa-speed-test**](https://github.com/ChanYeeSum/esa-speed-test) | ESA speed test website | Vue | |
+| [**resumeMakerByMD**](https://github.com/ChanYeeSum/resumeMakerByMD) | Resume maker using Markdown | JavaScript | |
+| [**pagesIndex**](https://github.com/ChanYeeSum/pagesIndex) | Index of my pages on GitHub | JavaScript | |
 
 #### 📚 Learning
 
+| Repository | Description | Language | Stars |
+|------------|-------------|----------|-------|
+| [**NewConceptEnglish**](https://github.com/ChanYeeSum/NewConceptEnglish) | English learning materials and notes | - | ⭐ |
+| [**openclaw-learning**](https://github.com/ChanYeeSum/openclaw-learning) | OpenClaw learning repository | TypeScript | |
+
+#### 🛠️ Tools
+
 | Repository | Description | Language |
 |------------|-------------|----------|
-| [**pythonlearn**](https://github.com/ChanYeeSum/pythonlearn) | Python learning notes and practice exercises | Jupyter |
-| [**JavaLearn**](https://github.com/ChanYeeSum/JavaLearn) | Java programming language learning repository | Java |
-| [**jsLearn**](https://github.com/ChanYeeSum/jsLearn) | JavaScript fundamentals and advanced concepts | JavaScript |
-| [**web**](https://github.com/ChanYeeSum/web) | Web development projects and experiments | HTML |
-
-#### 📖 Courses
-
-| Repository | Description |
-|------------|-------------|
-| [**SoftwareTesting**](https://github.com/ChanYeeSum/SoftwareTesting) | Software testing methodologies and practices |
+| [**Lazymirrorswitcher**](https://github.com/ChanYeeSum/Lazymirrorswitcher) | One-click mirror source switcher script | PowerShell |
 
 ### 🔗 Quick Links
 

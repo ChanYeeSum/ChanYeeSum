@@ -10,21 +10,21 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ChanYeeSum&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ChanYeeSum&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanYeeSum&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=ChanYeeSum&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanYeeSum&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ChanYeeSum&theme=tokyonight&no-frame=true&column=7" alt="Trophy" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChanYeeSum&theme=tokyonight&hide_border=true&background=1A1B27&stroke=1A1B27&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ChanYeeSum&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="Trophy" />
 
 </div>
 
@@ -84,7 +84,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChanYeeSum&repo=ChanYeeSum.github.io&theme=tokyonight&hide_border=true)](https://github.com/ChanYeeSum/ChanYeeSum.github.io)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChanYeeSum&repo=Data&theme=tokyonight&hide_border=true)](https://github.com/ChanYeeSum/Data)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChanYeeSum&repo=NewConceptEnglish&theme=tokyonight&hide_border=true)](https://github.com/ChanYeeSum/NewConceptEnglish)
 
 </div>
 
@@ -173,7 +173,7 @@ mindmap
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChanYeeSum&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChanYeeSum&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Activity" alt="Activity Graph" />
 
 </div>
 

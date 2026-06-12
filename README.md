@@ -2,7 +2,7 @@
 
 # Hi there, I'm ChenYisen 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+a+student+developer;Love+coding+and+learning+new+things!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+a+full-stack+developer;Love+coding+and+learning+new+things!" alt="Typing SVG" />
 
 </div>
 

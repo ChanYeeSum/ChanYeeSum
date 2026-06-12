@@ -22,9 +22,8 @@
 
 <div align="center">
 
-| 🎓 | Student Developer |
-|:--:|:--:|
 | 🏫 | Graduated from **CWNU** |
+|:--:|:--:|
 | 💻 | Passionate about **Web Development** & **Algorithms** |
 | 🌱 | Currently learning **Python**, **JavaScript** & **Java** |
 | 📫 | Feel free to explore my projects! |

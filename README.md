@@ -51,19 +51,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</div>
-
-
-### 🔗 Quick Links
-
-<div align="center">
-
-Java Projects 
 [![Gitee Repos](https://img.shields.io/badge/View_All-Repositories-C71D23?style=for-the-badge&logo=gitee&logoColor=white)](https://gitee.com/ChanYeeSum/projects)
 
 </div>
-
 ---
 
 ## 📊 Learning Journey
